@@ -4,8 +4,6 @@ IPPeak provides reliable proxy infrastructure for developers, enterprises, and t
 
 Powered by **80M+ real residential IPs** across **195+ countries and regions**, IPPeak delivers Residential Proxies, Static ISP Proxies, and Unlimited Residential Proxies to support global applications, automation workflows, AI projects, data operations, and location-based network requirements.
 
-<img width="1421" height="954" alt="IPPeak" src="https://github.com/user-attachments/assets/3c373c97-7470-4c50-9e9d-9aa102d39ef8" />
-
 ---
 
 # Why Choose IPPeak?
@@ -56,8 +54,6 @@ Ideal for:
 - AI data workflows
 - Regional content access
 
-<img width="1412" height="953" alt="IPPeak Residential Proxies" src="https://github.com/user-attachments/assets/fdb061f8-a6c2-4acc-bfef-6a77fa3ae8c1" />
-
 ---
 
 ## Unlimited Residential Proxy
@@ -76,8 +72,6 @@ Ideal for:
 - Large-scale data operations
 - Automation workflows
 - AI-related applications
-
-<img width="1400" height="953" alt="IPPeak Unlimited Residential Proxies" src="https://github.com/user-attachments/assets/0e9c34eb-afc9-4c79-802c-99f77cc862e6" />
 
 ---
 
@@ -98,8 +92,6 @@ Ideal for:
 - E-commerce operations
 - Account management
 - Long-term business applications
-
-<img width="1475" height="929" alt="IPPeak ISP Proxies" src="https://github.com/user-attachments/assets/740df4c1-cbd5-41e3-8901-07578ce2489e" />
 
 ---
 
@@ -132,8 +124,6 @@ Support social media management, account operations, and regional content analys
 ## Travel Fare Aggregation
 
 Collect and compare localized travel pricing information, including flight, hotel, and travel service data across different regions.
-
-<img width="1429" height="953" alt="IPPeak Common Use Cases" src="https://github.com/user-attachments/assets/ea2969e2-7b9f-4ce0-b9a2-2bd7b059b465" />
 
 ---
 
