@@ -8,8 +8,6 @@ However, when choosing a residential proxy, a common question is:
 
 Both are residential proxy types, but they work differently. Simply put, **Rotating Residential Proxies focus more on IP flexibility**, while **Static Residential Proxies focus more on IP stability**.
 
-<img width="1536" height="1024" alt="Rotating Residential Proxies vs  Static Residential Proxies" src="https://github.com/user-attachments/assets/1f869da9-fd10-46d1-8fec-863b974b8621" />
-
 ## What Is a Rotating Residential Proxy?
 
 A Rotating Residential Proxy typically comes from a residential IP pool, with IP addresses automatically rotating based on time, request volume, or session rules.
