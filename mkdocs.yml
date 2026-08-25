@@ -1,0 +1,14 @@
+site_name: IPPeak Documentation
+site_description: IPPeak Proxy API Documentation
+site_url: https://IPPeak.github.io/ippeak-proxy/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Proxy Types: proxy-types.md
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
