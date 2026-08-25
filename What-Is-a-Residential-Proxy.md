@@ -6,8 +6,6 @@ From market research and e-commerce operations to social media management and da
 
 Residential proxies provide real residential network environments, helping businesses improve access stability, support regional operations, and optimize global workflows.
 
-<img width="1536" height="1024" alt="Residential Proxy" src="https://github.com/user-attachments/assets/49aec5ab-e9af-4a50-b3e7-bcb87647d816" />
-
 ---
 
 ## What Is a Residential Proxy?
